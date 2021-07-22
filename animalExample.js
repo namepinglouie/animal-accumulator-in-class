@@ -25,7 +25,6 @@ let animals = ["Wombat", "Lion", "Jaguar", "Dragon", "Anteater", "Capybara"];
 // }
 // console.log(isAnimalInArr(animals, "Cat"));
 
-
 const animalsObjArr = [
     { name: "Wombat", age: 1, species: "Vombatus ursinus"},
     { name: "Lion", age: 8, species: "Panthera leo"},
@@ -42,8 +41,10 @@ const animalsObjArr = [
     // Return the animal
 
 // Filter array by number of letters in animal name
+// Example: Names longer than 5
 
 // Filter animals older than given age
+// Example: Animals older than 4
 
 // Find the average age of the animals
 
