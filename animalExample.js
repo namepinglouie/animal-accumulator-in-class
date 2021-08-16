@@ -55,3 +55,13 @@ const animalsObjArr = [
 // Find youngest animal
     // Return the age
     // Return the animal
+
+
+
+
+
+
+
+    function testingGitHubConnection(num1, num2) {
+        return num1 + num2;
+    }
